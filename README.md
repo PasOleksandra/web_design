@@ -161,6 +161,4 @@
             </ul>
         </section>
 
-        <section id="progress-section">
-            <h2>Ваш прогрес</h2>
-            <p>Опис прогресу тут...</p>
+
